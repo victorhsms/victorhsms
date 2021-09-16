@@ -6,7 +6,7 @@
 - 🚀 I'm extremely interested in any source of knowledge about technology, inside or outside of programming, and I follow many channels on youtube and blogs with this theme.
 - 👔 I participate in InfoJr, UFBA's Junior Informatics Company, where I have contact with various students in the area and study fullstack web development to meet the clients' projects. Besides that, I'm the manager of the people management department (HR of the company). 
 
-<div align="center" width="100%" display="flex" style="display: inline_block">
+<div>
   <a href="https://github.com/victorhsms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhsms&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsms&layout=compact&langs_count=7&theme=dracula"/>

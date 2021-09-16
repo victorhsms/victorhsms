@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, Welcome to Victor Hugo's profile! 😄
+
+- 🟢🟡🔵 I'm Brazilian, I live in Salvador, Bahia.
+- 🏳️‍🌈 I am a proud LGBTQIA+ person.
+- 📚 I study the Interdisciplinary Bachelor's Degree in Science and Technology at UFBA, with a focus on following a technology career as a website and mobile application developer.
+- 🚀 I'm extremely interested in any source of knowledge about technology, inside or outside of programming, and I follow many channels on youtube and blogs with this theme.
+- 👔 I participate in InfoJr, UFBA's Junior Informatics Company, where I have contact with various students in the area and study fullstack web development to meet the clients' projects. Besides that, I'm the manager of the people management department (HR of the company). 
 
  <div>
   <a href="https://github.com/victorhsms">

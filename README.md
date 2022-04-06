@@ -1,7 +1,6 @@
 ### Hi, Welcome to Victor Hugo's profile! 😄
 
-- 🟢🟡🔵 I'm Brazilian, I live in Salvador, Bahia.
-- 🏳️‍🌈 I'm a proud LGBTQIA+ person. He/His.
+- 🟢🟡🔵 Brazilian, I live in Salvador, Bahia. He/His.
 - 👨‍💻 Web development student at [Trybe](https://github.com/tryber).
 - 📚 I study the Interdisciplinary Bachelor's Degree in Science and Technology at UFBA, with a focus on following a technology career as a website and mobile application developer.
 - 🚀 I'm extremely interested in any source of knowledge about technology, inside or outside of programming, and I follow many channels on youtube and blogs with this theme.

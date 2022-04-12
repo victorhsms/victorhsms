@@ -2,7 +2,7 @@
 
 - 🟢🟡🔵 Brazilian, I live in Salvador, Bahia. He/His.
 - 👨‍💻 Web development student at [Trybe](https://github.com/tryber).
-- 📚 I study the Interdisciplinary Bachelor's Degree in Science and Technology at UFBA.
+- 📚 I study the Interdisciplinary Bachelor's Degree in Science and Technology at [UFBA](https://www.ufba.br/).
 - 🚀 I'm current learn [React](https://reactjs.org/) and [Next](https://nextjs.org/).
 
 <div>

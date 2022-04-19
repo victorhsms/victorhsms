@@ -1,15 +1,11 @@
-### Hi, Welcome to Victor Hugo's profile! 😄
+## Olá, Boas vindas ao meu perfil. Eu sou o Victor Hugo! 😄
 
-- 🟢🟡🔵 Brazilian, I live in Salvador, Bahia. He/His.
-- 👨‍💻 Web development student at [Trybe](https://github.com/tryber).
-- 📚 I study the Interdisciplinary Bachelor's Degree in Science and Technology at [UFBA](https://www.ufba.br/).
-- 🚀 I'm current learn [React](https://reactjs.org/) and [Next](https://nextjs.org/) to Web Development and [React Native](https://reactnative.dev/) to Mobile Development.
-
-<div>
-  <a href="https://github.com/victorhsms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhsms&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsms&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele. 🏳️‍🌈
+- 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na Turma XP, patrocinada pela [XP Inc.](https://www.xpinc.com/).
+- 📚 Eu curso o Bacharelado Interdisciplinar em Ciência e Tecnologia na [UFBA](https://www.ufba.br/).
+- 🚀 Eu tenho conhecimento em [React](https://reactjs.org/), [React Router](https://reactrouter.com/), [Styled Components](https://styled-components.com/) e [Redux](https://redux.js.org/) e estou estudando [Typescript](https://www.typescriptlang.org/pt/) e [Next](https://nextjs.org/) para desenvolvimento web front-end.
+- 🧪 Meu maior foco no momento é no desenvolvimento em TDD com [Jest](https://jestjs.io/pt-BR/) e [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
+- 🫂 Precisa de ajuda ou quer compartilhar conhecimento? Entre em contato comigo por meu [Linkedin](https://www.linkedin.com/feed/)!
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Victor-CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -18,11 +14,13 @@
   <img align="center" alt="Victor-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Victor-React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img align="center" alt"Victor-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img align="center" atl="Victor-Styled-Component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
   
   ##
- 
-<div> 
-  <a href = "mailto:victorhsmsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-hugo-mac%C3%AAdo-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div>
+  <a href="https://github.com/victorhsms">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhsms&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsms&layout=compact&langs_count=7&theme=dracula"/>
 </div>

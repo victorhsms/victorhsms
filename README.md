@@ -1,4 +1,4 @@
-## Olá, Boas vindas ao meu perfil. Eu sou o Victor Hugo! 😄
+## Olá, eu sou o Victor Hugo! 😄
 
 - 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele. 🏳️‍🌈
 - 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na Turma XP, patrocinada pela [XP Inc.](https://www.xpinc.com/).

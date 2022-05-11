@@ -1,4 +1,6 @@
-## Olá, eu sou o Victor Hugo! 😄
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5400&color=F4F733&center=verdadeiro&vCenter=falso&lines=Ol%C3%A1%2C+boas+vindas+ao+meu+perfil!;Sou+o+Victor+Hugo+(ou+s%C3%B3+'Vitu')+%3A%5D)](https://git.io/typing-svg)
+
+Alguns fatos sobre mim:
 
 - 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele. 🏳️‍🌈
 - 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na Turma XP, patrocinada pela [XP Inc.](https://www.xpinc.com/).

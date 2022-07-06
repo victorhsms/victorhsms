@@ -5,8 +5,8 @@ Alguns fatos sobre mim:
 - 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele. 🏳️‍🌈
 - 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na Turma XP, patrocinada pela [XP Inc.](https://www.xpinc.com/).
 - 📚 Eu curso o Bacharelado Interdisciplinar em Ciência e Tecnologia na [UFBA](https://www.ufba.br/).
+- 👨‍💼 Sou Orientador do núcleo de estudos em desenvolvimento web na (InfojrUfba)[https://www.instagram.com/infojrufba/], onde auxilio trainees da empresa a aprenderem HTML, CSS, Javascript, React, Node e Express.
 - 🚀 Eu tenho conhecimento em [React](https://reactjs.org/), [React Router](https://reactrouter.com/), [Styled Components](https://styled-components.com/) e [Redux](https://redux.js.org/) e estou estudando [Typescript](https://www.typescriptlang.org/pt/) e [Next](https://nextjs.org/) para desenvolvimento web front-end.
-- 🧪 Meu maior foco no momento é no desenvolvimento em TDD com [Jest](https://jestjs.io/pt-BR/) e [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
 - 🫂 Precisa de ajuda ou quer compartilhar conhecimento? Entre em contato comigo por meu [Linkedin](https://www.linkedin.com/feed/)!
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">

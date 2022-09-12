@@ -2,14 +2,10 @@
 
 Alguns fatos sobre mim:
 
-- 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele.
+- 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele.🏳️‍🌈
 - 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na Turma XP, patrocinada pela [XP Inc.](https://www.xpinc.com/).
 - 📚 Eu curso o Bacharelado Interdisciplinar em Ciência e Tecnologia na [UFBA](https://www.ufba.br/).
 - 👨‍💼 Sou Orientador do núcleo de estudos em desenvolvimento web na [Infojr UFBA](https://www.instagram.com/infojrufba/), onde auxilio trainees da empresa a aprenderem HTML, CSS, Javascript, React, Node e Express.
-- 🏳️‍🌈 Na Infojr UFBA eu também fui eleito presidente do Comitê de Diversidade da empresa, onde lidero uma equipe de mais de 14 pessoas para desenvolver ações que promovam diversidade e acolham colaboradores de grupos minoritários.
-- 🚀 Eu tenho conhecimento em [React](https://reactjs.org/), [React Router](https://reactrouter.com/), [Styled Components](https://styled-components.com/) e [Redux](https://redux.js.org/) e estou estudando [Typescript](https://www.typescriptlang.org/pt/), [Next](https://nextjs.org/) e [Recoil](https://recoiljs.org/) para desenvolvimento web front-end.
-- 🧪 Meu grande foco no momento é adotar o TDD (Desenvolvimento guiado por testes) em meus projetos, usando [Jest](https://jestjs.io/pt-BR/) e [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
-- 📈 Para o futuro, desejo aprender a desenvolver aplicações web em [VueJS](https://vuejs.org/) e aplicações mobile em [React Native](https://reactnative.dev/)
 - 🫂 Precisa de ajuda ou quer compartilhar conhecimento? Entre em contato comigo por meu [Linkedin](https://www.linkedin.com/feed/)!
 
 

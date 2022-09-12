@@ -2,12 +2,10 @@
 
 Alguns fatos sobre mim:
 
-- 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele.🏳️‍🌈
+- 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele. 🏳️‍🌈
+- 👨‍💼 Sou Desenvolvedor FullStack na Xtage, plataforma de criptoativos da [XP Investimentos](https://www.xpi.com.br/).
 - 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na Turma XP, patrocinada pela [XP Inc.](https://www.xpinc.com/).
 - 📚 Eu curso o Bacharelado Interdisciplinar em Ciência e Tecnologia na [UFBA](https://www.ufba.br/).
-- 👨‍💼 Sou Orientador do núcleo de estudos em desenvolvimento web na [Infojr UFBA](https://www.instagram.com/infojrufba/), onde auxilio trainees da empresa a aprenderem HTML, CSS, Javascript, React, Node e Express.
-- 🫂 Precisa de ajuda ou quer compartilhar conhecimento? Entre em contato comigo por meu [Linkedin](https://www.linkedin.com/feed/)!
-
 
 ## 💻 Technologies
 
